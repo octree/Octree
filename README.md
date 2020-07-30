@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Octree&show_icons=true&icon_color=FF364B&text_color=282C33&bg_color=ffffff&hide_title=true&title_color=FC760A&bg_color=081945" />
+<a href="https://github.com/Octree">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Octree&layout=compact" height="180"/>
+</a>
+<a href="https://github.com/Octree">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Octree&show_icons=true&icon_color=FF364B&text_color=282C33&bg_color=ffffff&hide_title=true&title_color=FC760A&bg_color=081945" height="180"/>
+</a>
