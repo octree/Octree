@@ -1,4 +1,4 @@
-<p align="center"><a href="https://octree.github.io"><img width="72%" src="./Assets/header.png" /></a></p>
+<p align="center"><a href="https://octree.github.io"><img width="50%" src="./Assets/header.svg" /></a></p>
 
 <br />
 
