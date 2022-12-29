@@ -2,7 +2,7 @@
 
 <br />
 
-I'm an iOS Developer  hailing from Hangzhou.
+I'm an iOS Developer hailing from Hangzhou, currently in Chengdu. I have a 🐈‍⬛ (Blue) and a 🐈 (Friday).
 
 **About me**
 
