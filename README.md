@@ -21,6 +21,10 @@
 <img src="https://profile-counter.glitch.me/Octree/count.svg">  
 </p>
 
+![GitHub Snake Light](https://github.com/Octree/Octree/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](https://github.com/Octree/Octree/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only#gh-dark-mode-only)
+
+
 **Languages and Tools:**  
 
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
