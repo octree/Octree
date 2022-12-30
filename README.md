@@ -13,6 +13,13 @@
 - 💬 Ask me about anything [here](https://github.com/Octree/Octree/issues).
 
 
+<br/>
+
+**Thanks for visiting :heart:**
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/Octree/count.svg">  
+</p>
 
 **Languages and Tools:**  
 
